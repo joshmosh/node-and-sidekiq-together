@@ -1,0 +1,6 @@
+development:
+  clients:
+    default:
+      database: node-and-sidekiq-together
+      hosts:
+        - localhost:27017
